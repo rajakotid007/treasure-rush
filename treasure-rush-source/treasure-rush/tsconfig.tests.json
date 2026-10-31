@@ -1,0 +1,1 @@
+{"extends":"./tsconfig.server.json","compilerOptions":{"outDir":"dist-tests"},"include":["server","shared","tests/engine.test.ts","tests/network.test.ts"]}
